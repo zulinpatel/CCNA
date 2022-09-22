@@ -21,7 +21,7 @@
 ### Router 1
 
 <img
-  src="/2.png"
+  src="/Lab 1/img/2.png"
   alt="Router 1"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -29,7 +29,7 @@
 ### Router 2
 
 <img
-  src="/3.png"
+  src="/Lab 1/img/3.png"
   alt="Router 2"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -38,7 +38,7 @@
 ### Router 1
 
 <img
-  src="/4.png"
+  src="/Lab 1/img/4.png"
   alt="Router 1"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -46,7 +46,7 @@
 ### Router 2
 
 <img
-  src="/5.png"
+  src="/Lab 1/img/5.png"
   alt="Router 2"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
