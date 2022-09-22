@@ -12,7 +12,7 @@
 
 
 <img
-  src="/1.png"
+  src="/Lab 1/img.png"
   alt="Router Configuration"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
