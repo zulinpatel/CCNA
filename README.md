@@ -2,3 +2,5 @@
  
 # Configure IP addresses as shown in the diagram
 ## Router 1
+
+![My Image](images/1.jpg)
