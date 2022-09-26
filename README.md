@@ -1,6 +1,6 @@
 # CCNA 
 
-[Lab 1] (https://github.com/zulinpatel/CCNA/tree/main/Lab%201) 
+[Lab 1] (/CCNA/Lab 1) 
 
 
 
